@@ -1,4 +1,6 @@
 The Tutorila can be found in blog https://scode7.blogspot.com/2021/11/glowing-qt-charts.html
+
+
 The Demo Can be found here https://youtu.be/4adeJ_LxwKs
 
 
